@@ -14,3 +14,12 @@ kör
   sudo service apache2 restart
   
 Om apache2 strular på grund av port 80, så stoppa BRANCHCACHE i "Tjänster" 
+
+
+## MYSQL 
+
+**setup**
+Kör 
+
+	sudo mysql -u root
+
